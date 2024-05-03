@@ -1,6 +1,6 @@
 # astronom
 
-Truetype font for astronomy and astrology
+TrueType font for astronomy and astrology.
 
 The original glyphs are from renaissance woodcut illustrations.
 
